@@ -1,0 +1,14 @@
+C:\Users\Én\Desktop\oskola\Mestinti\RealMestint\RealMestint\obj\Debug\net8.0\RealMestint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Én\Desktop\oskola\Mestinti\RealMestint\RealMestint\obj\Debug\net8.0\RealMestint.AssemblyInfoInputs.cache
+C:\Users\Én\Desktop\oskola\Mestinti\RealMestint\RealMestint\obj\Debug\net8.0\RealMestint.AssemblyInfo.cs
+C:\Users\Én\Desktop\oskola\Mestinti\RealMestint\RealMestint\obj\Debug\net8.0\RealMestint.csproj.CoreCompileInputs.cache
+C:\Users\Én\Desktop\oskola\Mestinti\RealMestint\RealMestint\bin\Debug\net8.0\RealMestint.exe
+C:\Users\Én\Desktop\oskola\Mestinti\RealMestint\RealMestint\bin\Debug\net8.0\RealMestint.deps.json
+C:\Users\Én\Desktop\oskola\Mestinti\RealMestint\RealMestint\bin\Debug\net8.0\RealMestint.runtimeconfig.json
+C:\Users\Én\Desktop\oskola\Mestinti\RealMestint\RealMestint\bin\Debug\net8.0\RealMestint.dll
+C:\Users\Én\Desktop\oskola\Mestinti\RealMestint\RealMestint\bin\Debug\net8.0\RealMestint.pdb
+C:\Users\Én\Desktop\oskola\Mestinti\RealMestint\RealMestint\obj\Debug\net8.0\RealMestint.dll
+C:\Users\Én\Desktop\oskola\Mestinti\RealMestint\RealMestint\obj\Debug\net8.0\refint\RealMestint.dll
+C:\Users\Én\Desktop\oskola\Mestinti\RealMestint\RealMestint\obj\Debug\net8.0\RealMestint.pdb
+C:\Users\Én\Desktop\oskola\Mestinti\RealMestint\RealMestint\obj\Debug\net8.0\RealMestint.genruntimeconfig.cache
+C:\Users\Én\Desktop\oskola\Mestinti\RealMestint\RealMestint\obj\Debug\net8.0\ref\RealMestint.dll
